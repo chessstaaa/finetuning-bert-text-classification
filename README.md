@@ -97,3 +97,16 @@ Model mampu mengenali berbagai emosi secara multi-label, namun masih memiliki Ma
 - PyTorch
 - HuggingFace Transformers & Datasets
 - Scikit-learn
+
+---
+
+## 🗂 Full Folder Link
+https://drive.google.com/drive/folders/1WbzJ2fj2dHZBSwaTDnx9R9WT1uUMfiO4?usp=drive_link
+
+The link contains:
+1. Model folder
+2. Notebook folder
+3. Output folder
+4. Reports folder
+5. README.md
+6. requirements.txt
